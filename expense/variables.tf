@@ -47,9 +47,9 @@ variable "allowed_cidr" {
 
 #R53 Variables
 variable "zone_id"{
-  default = "Z07132903T2RITB7RWQLU"
+  default = "Z09254361YXRI2M5F61SK"
 }
 
 variable "domain_name" {
-  default = "surya-devops.online"
+  default = "surya-devops.site"
 }
